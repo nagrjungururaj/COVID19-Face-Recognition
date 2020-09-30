@@ -1,4 +1,4 @@
-# Face-Recognition-pandemic-special
+# COVID-19 Face-Recognition
 Face Recognition Algorithm for masked and unmasked faces with high accuracy
 ## About
 Algorithm uses a pre-trained models provided by Intel Openvino Platform. It has 3 steps:  

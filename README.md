@@ -6,3 +6,6 @@ Face Recognition Algorithm for masked and unmasked faces with high accuracy
 2. Install Openvino Linux: https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_linux.html
 3. Active Openvino environment (VERY IMPORTANT)
 4. Run face_recognition_demo.py
+
+## How It Works
+1.Uses three pre-trained models from openvino, face-detector, landmarks-regressor, face-identifier  

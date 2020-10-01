@@ -38,7 +38,7 @@ fd_model = "Models/face-detection-retail-0005.xml"
 ld_model = "Models/landmarks-regression-retail-0009.xml"
 id_model = "Models/face-reidentification-retail-0095.xml"
 face_gallery = "face_gallery"
-input_video = "C:/Users/Admin/Desktop/InnovatorsBay/DATA/face-recognition/emp-video/without-mask/CSLS008874_Contract.mp4"
+input_video = "data/in.mp4"
 
 def build_argparser():
     parser = ArgumentParser()
